@@ -1,0 +1,2 @@
+opencv-python
+boto3

@@ -1,0 +1,7 @@
+dill
+torch
+ultralytics==8.1.23
+opencv-python-headless==4.7.0.72
+requests
+flask
+boto3
